@@ -1,0 +1,7 @@
+name: Time
+main: com.ConorGrocock.src.time
+version: 1.0
+commands:
+   timeA:
+      description: Set the time to day/night
+      usage: /time <day/night>
